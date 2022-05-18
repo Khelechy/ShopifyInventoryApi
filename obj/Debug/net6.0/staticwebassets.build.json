@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uFZhrHzd8jz2YXBWIzAMZhfBkdqu3ajk5xYwDsR7iHM=",
+  "Source": "ShopifyInventoryApi",
+  "BasePath": "_content/ShopifyInventoryApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
