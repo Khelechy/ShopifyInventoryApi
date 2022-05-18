@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "ShopifyInventoryApi: {
+    "ShopifyInventoryApi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
